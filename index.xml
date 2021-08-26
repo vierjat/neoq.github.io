@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SENSEI project</title>
-    <link>https://neoq.github.io/</link>
+    <link>https://vierjat.github.io/neoq.github.io/</link>
     <description>Recent content on SENSEI project</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://neoq.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://vierjat.github.io/neoq.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Idea</title>
-      <link>https://neoq.github.io/idea/</link>
+      <link>https://vierjat.github.io/neoq.github.io/idea/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://neoq.github.io/idea/</guid>
+      <guid>https://vierjat.github.io/neoq.github.io/idea/</guid>
       <description>NeoQ permite cuantificar en tiempo real la señal de cambio de color producida por una reacción bioquímica colorimétrica basada en la tecnología de amplificación isotérmica de ácidos nucléicos en loop (LAMP: Loop-mediated ishothermal amplification), que se realiza a temperatura constante mientras ocurre la reacción. Cuenta con un software instalado, desarrollado con algoritmos propios, que permite evaluar en tiempo real la positividad/negatividad de la muestra analizada y visualizar en una notebook, netbook o teléfono celular los datos adquiridos.</description>
     </item>
     
     <item>
       <title>neoQ-24</title>
-      <link>https://neoq.github.io/neoq24/</link>
+      <link>https://vierjat.github.io/neoq.github.io/neoq24/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://neoq.github.io/neoq24/</guid>
+      <guid>https://vierjat.github.io/neoq.github.io/neoq24/</guid>
       <description>  Lector de hasta 24 test eppendorf individuales Neo-Kit® Control de temperatura integrado y calibrado Identificación automática de positivos  </description>
     </item>
     
     <item>
       <title>neoQ-96</title>
-      <link>https://neoq.github.io/neoq-96/</link>
+      <link>https://vierjat.github.io/neoq.github.io/neoq-96/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://neoq.github.io/neoq-96/</guid>
+      <guid>https://vierjat.github.io/neoq.github.io/neoq-96/</guid>
       <description>  Lector de placas de 96 determinaciones Neo-Kit® Control de temperatura integrado y calibrado Identificación automática de positivos  </description>
     </item>
     
     <item>
       <title>contacto</title>
-      <link>https://neoq.github.io/quienessomos/</link>
+      <link>https://vierjat.github.io/neoq.github.io/quienessomos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://neoq.github.io/quienessomos/</guid>
+      <guid>https://vierjat.github.io/neoq.github.io/quienessomos/</guid>
       <description>Datos de contacto Ponemos quienes somos?</description>
     </item>
     

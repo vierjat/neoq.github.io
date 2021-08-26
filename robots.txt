@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://neoq.github.io//sitemap.xml
+Sitemap: https://vierjat.github.io/neoq.github.io/sitemap.xml
